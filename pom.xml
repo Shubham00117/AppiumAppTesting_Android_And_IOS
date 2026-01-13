@@ -29,5 +29,10 @@
     <artifactId>testng</artifactId>
     <version>7.9.0</version>
 </dependency>
+  	<dependency>
+  		<groupId>OpenCartV131</groupId>
+  		<artifactId>OpenCartV131</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
